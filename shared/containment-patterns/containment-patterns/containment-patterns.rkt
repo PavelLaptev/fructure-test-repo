@@ -11,6 +11,7 @@
    CONTAINMENT PATTERNS
 
    this library implements several match-expanders which
+   asd
    can be required seperately and used with racket/match
 
    i made ⋱ as a sugar to concisely perform updates on
