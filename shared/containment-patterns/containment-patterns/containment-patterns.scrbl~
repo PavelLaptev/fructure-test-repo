@@ -17,7 +17,7 @@ by Dave Herman (@tt{dherman at ccs dot neu dot edu})
 
 Memoize is a simple library for doing dynamic programming in Scheme with a minimum
 of effort. The library provides drop-in replacement forms for defining Scheme
-functions that cache their results. sdf
+functions that cache their results. sdf df
 
 @table-of-contents[]
 
