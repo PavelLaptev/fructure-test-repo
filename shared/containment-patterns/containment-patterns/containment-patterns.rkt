@@ -12,7 +12,7 @@
 
    this library implements several match-expanders which
    can be required seperately and used with racket/match
-
+sd
    i made ⋱ as a sugar to concisely perform updates on
    highly nested structures for syntax rewriting purposes
    in structured editing and algebraic stepper prototypes
